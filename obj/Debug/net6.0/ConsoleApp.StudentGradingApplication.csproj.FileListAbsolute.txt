@@ -1,0 +1,15 @@
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\bin\Debug\net6.0\ConsoleApp.StudentGradingApplication.exe
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\bin\Debug\net6.0\ConsoleApp.StudentGradingApplication.deps.json
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\bin\Debug\net6.0\ConsoleApp.StudentGradingApplication.runtimeconfig.json
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\bin\Debug\net6.0\ConsoleApp.StudentGradingApplication.dll
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\bin\Debug\net6.0\ref\ConsoleApp.StudentGradingApplication.dll
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\bin\Debug\net6.0\ConsoleApp.StudentGradingApplication.pdb
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\obj\Debug\net6.0\ConsoleApp.StudentGradingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\obj\Debug\net6.0\ConsoleApp.StudentGradingApplication.AssemblyInfoInputs.cache
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\obj\Debug\net6.0\ConsoleApp.StudentGradingApplication.AssemblyInfo.cs
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\obj\Debug\net6.0\ConsoleApp.StudentGradingApplication.csproj.CoreCompileInputs.cache
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\obj\Debug\net6.0\ConsoleApp.StudentGradingApplication.dll
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\obj\Debug\net6.0\ref\ConsoleApp.StudentGradingApplication.dll
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\obj\Debug\net6.0\ConsoleApp.StudentGradingApplication.pdb
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\obj\Debug\net6.0\ConsoleApp.StudentGradingApplication.genruntimeconfig.cache
+C:\Users\grego\source\repos\ConsoleApp.StudentGradingApplication\ConsoleApp.StudentGradingApplication\obj\Debug\net6.0\ConsoleApp.StudentGradingApplication.csproj.AssemblyReference.cache
