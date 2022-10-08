@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grego\\source\\repos\\ConsoleApp.StudentGradingApplication\\ConsoleApp.StudentGradingApplication\\ConsoleApp.StudentGradingApplication.csproj",
+      "projectUniqueName": "C:\\Users\\grego\\source\\repos\\ConsoleApp.StudentGradingApplication - Copy\\ConsoleApp.StudentGradingApplication\\ConsoleApp.StudentGradingApplication.csproj",
       "projectName": "ConsoleApp.StudentGradingApplication",
-      "projectPath": "C:\\Users\\grego\\source\\repos\\ConsoleApp.StudentGradingApplication\\ConsoleApp.StudentGradingApplication\\ConsoleApp.StudentGradingApplication.csproj",
+      "projectPath": "C:\\Users\\grego\\source\\repos\\ConsoleApp.StudentGradingApplication - Copy\\ConsoleApp.StudentGradingApplication\\ConsoleApp.StudentGradingApplication.csproj",
       "packagesPath": "C:\\Users\\grego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grego\\source\\repos\\ConsoleApp.StudentGradingApplication\\ConsoleApp.StudentGradingApplication\\obj\\",
+      "outputPath": "C:\\Users\\grego\\source\\repos\\ConsoleApp.StudentGradingApplication - Copy\\ConsoleApp.StudentGradingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grego\\AppData\\Roaming\\NuGet\\NuGet.Config",
